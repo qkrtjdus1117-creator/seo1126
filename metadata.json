@@ -1,0 +1,6 @@
+{
+  "name": "천안박물관 관람료 감면·무료 자가진단",
+  "description": "관람객이 5가지 질문으로 천안박물관 관람료 무료·감면·일반 요금 대상 여부와 지참 서류, 문의처를 간편하게 확인하는 모바일 우선 자가진단 서비스입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
